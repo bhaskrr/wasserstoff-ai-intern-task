@@ -1,0 +1,8 @@
+fastapi==0.115.2
+keybert
+pydantic
+pymongo
+python-dotenv
+transformers
+uvicorn
+starlette

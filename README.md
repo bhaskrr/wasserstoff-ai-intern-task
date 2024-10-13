@@ -1,4 +1,4 @@
-![PDF Image](https://www.pexels.com/photo/pile-of-folders-357514/)
+![PDF Image](image.jpg)
 
 # PDF Processing Pipeline Documentation
 
